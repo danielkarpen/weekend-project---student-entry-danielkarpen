@@ -1,0 +1,11 @@
+form {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  max-width: 500px;
+}
+
+form input {
+  width: 100%;
+}
